@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate developer interested in **cybersecurity**
 
 ## 🚀 About Me
 
-- 🔐 **Cybersecurity Enthusiast** - Building secure applications
+- 🔐 **Cybersecurity/Software Engeener Enthusiast** - Building secure applications
 - 📊 **Data Analyst** - Extracting insights from datasets
 - 🐍 **Python Developer** - Writing clean code
 - 💻 **Multi-language Programmer** - Python, C, C#, JavaScript
