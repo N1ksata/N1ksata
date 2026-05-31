@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a passionate developer interested in **cybersecurity**
 ## 🛠️ Tech Stack
 
 - **Languages**: Python, C, C#, JavaScript
-- **Focus**: Cybersecurity, Data Analysis, Automation
+- **Focus**: Software Development , Cybersecurity, Data Analysis, Automation
 
 ## 🤝 Let's Connect
 
