@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm N1ksata
 
-Welcome to my GitHub! I'm a passionate developer interested in **cybersecurity**, **data analysis**, and **Python development**.
+Welcome to my GitHub! I'm a passionate developer interested in **Software development**, **data analysis**.
 
 ## 🚀 About Me
 
