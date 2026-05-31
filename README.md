@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋 I'm N1ksata
 
-<!--
-**N1ksata/N1ksata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate developer interested in **cybersecurity**, **data analysis**, and **Python development**.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 **Cybersecurity Enthusiast** - Building secure applications
+- 📊 **Data Analyst** - Extracting insights from datasets
+- 🐍 **Python Developer** - Writing clean code
+- 💻 **Multi-language Programmer** - Python, C, C#, JavaScript
+
+## 💼 Featured Projects
+
+- **Net-Pulse** - Real-time network anomaly detector
+- **Stock Trend Analyzer** - Data analysis for stock markets
+- **Password Strength Checker** - Security utility tool
+- **Daily Python Snippets** - Python learning collection
+
+## 🛠️ Tech Stack
+
+- **Languages**: Python, C, C#, JavaScript
+- **Focus**: Cybersecurity, Data Analysis, Automation
+
+## 🤝 Let's Connect
+
+Feel free to reach out for collaboration!
+
+---
+
+**"Code is poetry, security is essential."** 🔐
