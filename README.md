@@ -1,4 +1,4 @@
-# Hi there! I'm N1ksata
+# Hi there! I'm Nikolay
 
 I'm a passionate software developer, cybersecurity enthusiast, and data analyst focused on building secure, data-driven applications.
 
