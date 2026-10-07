@@ -4,7 +4,7 @@ I'm a passionate software developer, cybersecurity enthusiast, and data analyst 
 
 ## Tech Stack & Focus
 
-- **Languages**: Python, C, C#, Node.js ,HTML , CSS 
+- **Languages**: Python, C, C#, Node.js, HTML, CSS, Java
 - **Core Focus**: Software Engineering, Cybersecurity, Data Analysis, Automation
 
 ## Featured Projects
